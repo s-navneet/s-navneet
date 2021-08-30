@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/navneet-singh-564a90144/)
 
 - :office: I’m working at <a href="https://geospoc.com/">Geospoc</a>
-- 🌱 I’m currently building frontend applications using VueJS and Nuxt JS!!
+- 🌱 I’m currently building frontend applications using VueJS and NuxtJS
 - 📫 About me: https://s-navneet.github.io/
 - 😄 Pronouns: navneet
 
