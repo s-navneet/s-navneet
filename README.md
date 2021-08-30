@@ -2,9 +2,9 @@
 Hey, nice to see you.😃
 Welcome to my page!
 I'm a Frontend Developer from Pune, India 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/navneet-singh-564a90144/)
 <!--
 **s-navneet/s-navneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/navneet-singh-564a90144/)
 Here are some ideas to get you started:
 -->
 - :office: I’m working at <a href="https://geospoc.com/">Geospoc</a>
