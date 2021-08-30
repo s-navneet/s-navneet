@@ -6,10 +6,9 @@ I'm a Frontend Developer from Pune, India
 **s-navneet/s-navneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working at Geospoc
-- 🌱 I’m currently learning React VueJS Nuxt JS Node JS
-- 📫 How to reach me: https://s-navneet.github.io
+- :office: I’m working at <a href="https://geospoc.com/">Geospoc</a>
+- 🌱 I’m currently building frontend applications using VueJS and Nuxt JS!!
+- 📫 About me: https://s-navneet.github.io/
 - 😄 Pronouns: navneet
 
 -->
