@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hey, nice to see you.😃
 Welcome to my page!
-I'm a Frontend Developer from Pune, India 
+I'm a Frontend Developer from Pune, India </br>
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/navneet-singh-564a90144/)
 <!--
 **s-navneet/s-navneet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
