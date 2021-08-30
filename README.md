@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: navneet
 
 </br>
--->
+<p>
 Things I code with:</br></br>
 
 Front-End:
@@ -32,3 +32,4 @@ Database:
 
 
 </br>
+</p>
